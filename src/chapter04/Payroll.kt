@@ -1,6 +1,6 @@
 package chapter04
 
-import chapter01.Person
+import chapter01_what_and_why.Person
 
 object Payroll {
     val allEmployees = arrayListOf<Person>()

@@ -1,4 +1,4 @@
-package chapter01
+package chapter01_what_and_why
 
 data class Person(val name: String, val age: Int? = null)
 
