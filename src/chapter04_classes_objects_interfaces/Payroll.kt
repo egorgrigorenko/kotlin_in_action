@@ -1,4 +1,4 @@
-package chapter04
+package chapter04_classes_objects_interfaces
 
 import chapter01_what_and_why.Person
 

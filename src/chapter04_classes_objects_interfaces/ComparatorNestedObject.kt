@@ -1,4 +1,4 @@
-package chapter04
+package chapter04_classes_objects_interfaces
 
 data class Person(val name: String) {
     object NameComparator: Comparator<Person> {

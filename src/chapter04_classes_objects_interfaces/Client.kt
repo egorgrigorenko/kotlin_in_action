@@ -1,4 +1,4 @@
-package chapter04
+package chapter04_classes_objects_interfaces
 
 data class Client(val name: String, val postalCode: Int)
 

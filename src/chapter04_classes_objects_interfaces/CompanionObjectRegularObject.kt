@@ -1,4 +1,4 @@
-package chapter04
+package chapter04_classes_objects_interfaces
 
 class PersonCo(val name: String) {
     companion object Loader {

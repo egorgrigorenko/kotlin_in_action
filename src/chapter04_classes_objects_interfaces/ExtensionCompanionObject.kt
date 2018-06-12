@@ -1,4 +1,4 @@
-package chapter04
+package chapter04_classes_objects_interfaces
 
 class PersonEco(val firstName: String, val lastName: String) {
     companion object

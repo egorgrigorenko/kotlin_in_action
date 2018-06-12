@@ -1,4 +1,4 @@
-package chapter04
+package chapter04_classes_objects_interfaces
 
 class Customer(name: String) {
     val secondProperty = "Second property".also(::println)
