@@ -1,4 +1,4 @@
-package chapter05
+package chapter05_programming_with_lambdas
 
 class Book(val title: String, val authors: List<String>)
 

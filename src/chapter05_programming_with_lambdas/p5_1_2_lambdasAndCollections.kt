@@ -1,4 +1,4 @@
-package chapter05
+package chapter05_programming_with_lambdas
 
 data class Person(val name: String, val age: Int)
 

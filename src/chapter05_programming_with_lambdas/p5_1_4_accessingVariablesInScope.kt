@@ -1,4 +1,4 @@
-package chapter05
+package chapter05_programming_with_lambdas
 
 
 fun printMessagesWithPrefix(messages: Collection<String>, prefix: String) {

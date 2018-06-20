@@ -1,4 +1,4 @@
-package chapter05
+package chapter05_programming_with_lambdas
 
 fun sendEmail(person: Person, message: String) {
     println("Message $message was sent to $person")
@@ -30,5 +30,7 @@ fun main(args: Array<String>) {
     // 6
     val personsAgeFunction = Person::age
     println(personsAgeFunction(p))
-    println(p::age)
+
+    val dmitrysAgeFunction = p::age
+    println(dmitrysAgeFunction())
 }
